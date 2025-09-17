@@ -1,0 +1,101 @@
+AppointmentID,CustomerName,Service,ServiceType,AppointmentDate,AppointmentTime,DurationMins,Price,StaffName,PaymentMode
+1,Karan Malhotra,Facial,Basic,18-09-2025,11.30 PM,120,1000,Rajesh,UPI
+2,Meera Chopra,Haircut,Basic,14-09-2025,16:30 PM,90,1500,Suresh,Card
+3,Arjun Verma,Haircut,Basic,07-09-2025,17:30 PM,60,600,Meena,Card
+4,Simran Kaur,Haircut,Basic,06-09-2025,13:00 PM,30,2500,Meena,Card
+5,Pooja Jain,Pedicure,Basic,05-09-2025,12.30 PM,30,2000,Suresh,Cash
+6,Aarav Mehta,Facial,Premium,11-09-2025,9.30 PM,30,1200,Alok,Cash
+7,Pooja Jain,Pedicure,Basic,08-09-2025,16:30 AM,120,3000,Ritika,UPI
+8,Raj Malhotra,Haircut,Premium,09-09-2025,17:30 AM,30,3000,Ritika,Card
+9,Ananya Iyer,Spa,Premium,10-09-2025,13:00 PM,90,1000,Ritika,UPI
+10,Ishita Bose,Haircut,Premium,21-09-2025,19:30 AM,30,1200,Kavita,Cash
+11,Simran Kaur,Hair Coloring,Premium,25-09-2025,10.00 PM,30,600,Meena,UPI
+12,Ananya Iyer,Facial,Basic,20-09-2025,11.00 AM,45,700,Kavita,Card
+13,Divya Nair,Spa,Basic,17-09-2025,15:00 AM,120,2000,Alok,UPI
+14,Raj Malhotra,Facial,Basic,04-09-2025,17:00 PM,30,1500,Rajesh,Cash
+15,Ishita Bose,Facial,Premium,22-09-2025,19:00 AM,120,1200,Alok,Cash
+16,Meera Chopra,Facial,Premium,22-09-2025,16:30 PM,90,3000,Ritika,UPI
+17,Sahil Kapoor,Spa,Premium,02-09-2025,12.00 AM,90,3000,Rajesh,Cash
+18,Neha Gupta,Spa,Basic,18-09-2025,10.30 PM,45,1200,Meena,Card
+19,Rahul Nair,Massage,Premium,02-09-2025,16:30 PM,60,1500,Meena,UPI
+20,Kavya Rao,Threading,Basic,19-09-2025,16:00 PM,45,800,Suresh,UPI
+21,Karan Malhotra,Massage,Basic,22-09-2025,14:30 PM,30,1000,Kavita,UPI
+22,Karan Malhotra,Massage,Premium,29-09-2025,9.00 PM,60,500,Suresh,UPI
+23,Simran Kaur,Spa,Premium,30-09-2025,16:00 PM,120,3000,Rajesh,UPI
+24,Sneha Reddy,Massage,Premium,04-09-2025,9.00 PM,120,2000,Kavita,UPI
+25,Sahil Kapoor,Spa,Premium,18-09-2025,9.30 PM,60,1500,Meena,UPI
+26,Divya Nair,Threading,Basic,11-09-2025,18:00 PM,120,1000,Kavita,UPI
+27,Karan Malhotra,Threading,Premium,30-09-2025,18:30 AM,120,600,Alok,Card
+28,Nikhil Bansal,Hair Coloring,Basic,14-09-2025,10.00 AM,90,2500,Rajesh,Cash
+29,Pooja Jain,Threading,Premium,01-09-2025,10.30 AM,60,2000,Kavita,Cash
+30,Sneha Reddy,Hair Coloring,Premium,13-09-2025,10.30 PM,120,1500,Ritika,Card
+31,Rahul Nair,Hair Coloring,Premium,24-09-2025,16:00 PM,45,2500,Suresh,Cash
+32,Sneha Reddy,Manicure,Premium,25-09-2025,16:00 PM,120,1200,Rajesh,Card
+33,Aarav Mehta,Haircut,Basic,21-09-2025,17:30 PM,60,1500,Ritika,UPI
+34,Aditya Khanna,Massage,Basic,19-09-2025,19:00 PM,120,700,Rajesh,UPI
+35,Raj Malhotra,Hair Coloring,Basic,05-09-2025,19:00 PM,60,500,Ritika,UPI
+36,Aditya Khanna,Spa,Basic,27-09-2025,19:30 PM,60,1500,Suresh,Cash
+37,Meera Chopra,Threading,Premium,30-09-2025,14:00 PM,45,600,Suresh,Card
+38,Sahil Kapoor,Pedicure,Premium,04-09-2025,15:00 AM,60,600,Meena,Cash
+39,Kavya Rao,Spa,Basic,17-09-2025,17:30 PM,120,2000,Rajesh,Cash
+40,Sahil Kapoor,Pedicure,Premium,26-09-2025,9.30 AM,30,2000,Meena,Cash
+41,Divya Nair,Hair Coloring,Basic,21-09-2025,16:00 AM,45,500,Alok,UPI
+42,Kavya Rao,Facial,Premium,25-09-2025,14:00 AM,60,800,Alok,Cash
+43,Rohan Patel,Haircut,Basic,13-09-2025,9.00 AM,60,600,Rajesh,UPI
+44,Raj Malhotra,Pedicure,Premium,08-09-2025,10.00 PM,90,600,Suresh,Card
+45,Sneha Reddy,Haircut,Premium,09-09-2025,18:30 PM,30,1200,Suresh,Cash
+46,Simran Kaur,Hair Coloring,Premium,25-09-2025,15:30 PM,120,1200,Rajesh,UPI
+47,Divya Nair,Haircut,Premium,23-09-2025,11.00 PM,60,1500,Alok,Card
+48,Raj Malhotra,Hair Coloring,Basic,10-09-2025,10.30 AM,45,700,Suresh,Card
+49,Simran Kaur,Threading,Premium,26-09-2025,15:30 AM,60,3000,Ritika,UPI
+50,Sahil Kapoor,Spa,Premium,15-09-2025,12.30 PM,120,700,Ritika,Card
+51,Raj Malhotra,Hair Coloring,Basic,22-09-2025,17:00 AM,120,800,Kavita,Card
+52,Kavya Rao,Massage,Basic,06-09-2025,14:30 PM,45,800,Alok,Card
+53,Divya Nair,Massage,Basic,02-09-2025,14:00 PM,45,600,Ritika,Cash
+54,Nikhil Bansal,Hair Coloring,Premium,11-09-2025,16:00 PM,60,800,Meena,UPI
+55,Rahul Nair,Facial,Premium,05-09-2025,11.30 PM,45,800,Kavita,Card
+56,Rahul Nair,Hair Coloring,Basic,06-09-2025,11.30 PM,30,1200,Suresh,Card
+57,Aditya Khanna,Threading,Premium,27-09-2025,14:30 PM,120,700,Alok,Cash
+58,Raj Malhotra,Manicure,Premium,09-09-2025,12.00 PM,120,3000,Ritika,UPI
+59,Raj Malhotra,Haircut,Premium,05-09-2025,19:00 PM,120,1000,Kavita,Card
+60,Divya Nair,Facial,Premium,17-09-2025,12.30 PM,90,2000,Rajesh,UPI
+61,Rohan Patel,Massage,Premium,23-09-2025,12.30 PM,60,500,Rajesh,Card
+62,Neha Gupta,Hair Coloring,Basic,13-09-2025,10.00 PM,60,700,Suresh,UPI
+63,Pooja Jain,Haircut,Premium,20-09-2025,18:00 AM,45,700,Suresh,Cash
+64,Vikram Singh,Spa,Premium,14-09-2025,11.00 PM,30,1500,Meena,Card
+65,Sahil Kapoor,Facial,Premium,02-09-2025,15:00 PM,30,700,Alok,Card
+66,Neha Gupta,Facial,Premium,17-09-2025,19:30 PM,90,1000,Meena,Card
+67,Neha Gupta,Hair Coloring,Premium,09-09-2025,19:00 AM,120,1000,Meena,Card
+68,Priya Sharma,Massage,Premium,20-09-2025,16:30 PM,90,500,Kavita,Cash
+69,Aarav Mehta,Manicure,Basic,25-09-2025,19:00 PM,60,1000,Kavita,UPI
+70,Raj Malhotra,Manicure,Basic,16-09-2025,16:00 PM,45,1500,Kavita,UPI
+71,Sahil Kapoor,Hair Coloring,Premium,22-09-2025,14:00 PM,30,3000,Alok,Cash
+72,Aarav Mehta,Massage,Basic,30-09-2025,16:00 PM,120,600,Ritika,Cash
+73,Karan Malhotra,Threading,Premium,27-09-2025,14:30 PM,120,1200,Meena,UPI
+74,Neha Gupta,Massage,Basic,30-09-2025,12.00 AM,90,800,Kavita,Cash
+75,Simran Kaur,Threading,Basic,13-09-2025,11.30 PM,90,600,Alok,UPI
+76,Vikram Singh,Facial,Basic,30-09-2025,9.30 PM,120,3000,Alok,Card
+77,Simran Kaur,Massage,Basic,15-09-2025,15:00 PM,120,2000,Kavita,UPI
+78,Sahil Kapoor,Massage,Premium,12-09-2025,13:00 PM,60,600,Meena,UPI
+79,Kavya Rao,Manicure,Basic,23-09-2025,17:30 PM,90,1500,Rajesh,UPI
+80,Karan Malhotra,Spa,Basic,25-09-2025,12.00 AM,90,2000,Suresh,UPI
+81,Divya Nair,Threading,Basic,05-09-2025,19:00 PM,60,800,Alok,Cash
+82,Rohan Patel,Massage,Premium,26-09-2025,18:00 AM,45,1200,Meena,Cash
+83,Sneha Reddy,Spa,Basic,19-09-2025,10.30 PM,90,2000,Ritika,UPI
+84,Simran Kaur,Pedicure,Basic,10-09-2025,9.30 PM,90,500,Alok,Card
+85,Simran Kaur,Spa,Premium,09-09-2025,18:30 PM,90,1200,Meena,UPI
+86,Meera Chopra,Pedicure,Premium,19-09-2025,18:30 PM,30,600,Suresh,Card
+87,Rahul Nair,Hair Coloring,Basic,13-09-2025,14:30 PM,120,1000,Kavita,Cash
+88,Aditya Khanna,Hair Coloring,Premium,17-09-2025,18:00 AM,90,1200,Rajesh,UPI
+89,Kavya Rao,Threading,Basic,07-09-2025,17:00 PM,60,500,Ritika,UPI
+90,Sneha Reddy,Spa,Premium,27-09-2025,14:30 PM,120,1500,Meena,Card
+91,Divya Nair,Hair Coloring,Premium,09-09-2025,18:00 PM,90,700,Alok,Cash
+92,Rohan Patel,Spa,Basic,27-09-2025,11.00 PM,120,3000,Kavita,UPI
+93,Aarav Mehta,Manicure,Premium,17-09-2025,11.00 AM,120,800,Meena,Cash
+94,Ananya Iyer,Hair Coloring,Premium,18-09-2025,18:30 AM,90,1500,Meena,Cash
+95,Nikhil Bansal,Spa,Premium,18-09-2025,19:30 PM,90,500,Alok,UPI
+96,Arjun Verma,Facial,Basic,26-09-2025,18:30 PM,90,1200,Rajesh,UPI
+97,Divya Nair,Hair Coloring,Premium,30-09-2025,16:30 AM,90,2500,Alok,Card
+98,Simran Kaur,Facial,Basic,15-09-2025,15:30 PM,120,500,Suresh,Card
+99,Sahil Kapoor,Pedicure,Premium,11-09-2025,9.00 PM,120,1500,Rajesh,Cash
+100,Raj Malhotra,Pedicure,Basic,14-09-2025,19:30 PM,45,600,Kavita,UPI
